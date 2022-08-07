@@ -1,3 +1,3 @@
-![sample](./assests/images/sample.png)
+![sample](./assests/images/samle.png)
 # NetflixLandingPage
 Clone NetflixLandingPage
